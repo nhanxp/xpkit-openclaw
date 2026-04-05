@@ -46,3 +46,4 @@ See references/ for detailed guides:
 - **references/debug.md** — Debug & fix workflow  
 - **references/review.md** — Code review checklist
 - **references/token-tips.md** — Token optimization patterns
+- **references/cache-optimization.md** — Bộ nhớ đệm: cache strategy, compact, checkpoint
